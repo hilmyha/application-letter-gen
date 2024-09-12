@@ -165,7 +165,7 @@ function App() {
               </Accordion.Content>
             </Accordion.Panel>
           </Accordion>
-          <div className="p-16 lg:col-span-2 bg-white" ref={componentRef}>
+          <div className="p-10 lg:col-span-2 bg-white" ref={componentRef}>
             <div className="mb-4">
               <h2 className="text-lg font-semibold">
                 {name ? name : "John Doe"}
